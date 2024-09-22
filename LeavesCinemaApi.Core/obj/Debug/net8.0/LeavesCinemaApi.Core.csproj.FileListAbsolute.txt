@@ -1,0 +1,17 @@
+C:\Desarrollo\LeavesCinemaApi\LeavesCinemaApi.Core\bin\Debug\net8.0\LeavesCinemaApi.Core.deps.json
+C:\Desarrollo\LeavesCinemaApi\LeavesCinemaApi.Core\bin\Debug\net8.0\LeavesCinemaApi.Core.dll
+C:\Desarrollo\LeavesCinemaApi\LeavesCinemaApi.Core\bin\Debug\net8.0\LeavesCinemaApi.Core.pdb
+C:\Desarrollo\LeavesCinemaApi\LeavesCinemaApi.Core\bin\Debug\net8.0\LeavesCinemaApi.Contracts.dll
+C:\Desarrollo\LeavesCinemaApi\LeavesCinemaApi.Core\bin\Debug\net8.0\LeavesCinemaApi.Infrastructure.dll
+C:\Desarrollo\LeavesCinemaApi\LeavesCinemaApi.Core\bin\Debug\net8.0\LeavesCinemaApi.Contracts.pdb
+C:\Desarrollo\LeavesCinemaApi\LeavesCinemaApi.Core\bin\Debug\net8.0\LeavesCinemaApi.Infrastructure.pdb
+C:\Desarrollo\LeavesCinemaApi\LeavesCinemaApi.Core\obj\Debug\net8.0\LeavesCinemaApi.Core.csproj.AssemblyReference.cache
+C:\Desarrollo\LeavesCinemaApi\LeavesCinemaApi.Core\obj\Debug\net8.0\LeavesCinemaApi.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollo\LeavesCinemaApi\LeavesCinemaApi.Core\obj\Debug\net8.0\LeavesCinemaApi.Core.AssemblyInfoInputs.cache
+C:\Desarrollo\LeavesCinemaApi\LeavesCinemaApi.Core\obj\Debug\net8.0\LeavesCinemaApi.Core.AssemblyInfo.cs
+C:\Desarrollo\LeavesCinemaApi\LeavesCinemaApi.Core\obj\Debug\net8.0\LeavesCinemaApi.Core.csproj.CoreCompileInputs.cache
+C:\Desarrollo\LeavesCinemaApi\LeavesCinemaApi.Core\obj\Debug\net8.0\LeavesCi.6A9DAE9D.Up2Date
+C:\Desarrollo\LeavesCinemaApi\LeavesCinemaApi.Core\obj\Debug\net8.0\LeavesCinemaApi.Core.dll
+C:\Desarrollo\LeavesCinemaApi\LeavesCinemaApi.Core\obj\Debug\net8.0\refint\LeavesCinemaApi.Core.dll
+C:\Desarrollo\LeavesCinemaApi\LeavesCinemaApi.Core\obj\Debug\net8.0\LeavesCinemaApi.Core.pdb
+C:\Desarrollo\LeavesCinemaApi\LeavesCinemaApi.Core\obj\Debug\net8.0\ref\LeavesCinemaApi.Core.dll
