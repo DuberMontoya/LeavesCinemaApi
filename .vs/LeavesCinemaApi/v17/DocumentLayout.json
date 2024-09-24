@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Desarrollo\\Cristian\\LeavesCinemaApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A676A59-FC7C-4F8D-9A94-E365392D1B7D}|LeavesCinemaApi.Infrastructure\\LeavesCinemaApi.Infrastructure.csproj|c:\\desarrollo\\cristian\\leavescinemaapi\\leavescinemaapi.infrastructure\\repositories\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A676A59-FC7C-4F8D-9A94-E365392D1B7D}|LeavesCinemaApi.Infrastructure\\LeavesCinemaApi.Infrastructure.csproj|solutionrelative:leavescinemaapi.infrastructure\\repositories\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A676A59-FC7C-4F8D-9A94-E365392D1B7D}|LeavesCinemaApi.Infrastructure\\LeavesCinemaApi.Infrastructure.csproj|c:\\desarrollo\\cristian\\leavescinemaapi\\leavescinemaapi.infrastructure\\repositories\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A676A59-FC7C-4F8D-9A94-E365392D1B7D}|LeavesCinemaApi.Infrastructure\\LeavesCinemaApi.Infrastructure.csproj|solutionrelative:leavescinemaapi.infrastructure\\repositories\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED33171-0503-491B-82A7-B98610751BFD}|LeavesCinemaApi.Core\\LeavesCinemaApi.Core.csproj|c:\\desarrollo\\cristian\\leavescinemaapi\\leavescinemaapi.core\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ED33171-0503-491B-82A7-B98610751BFD}|LeavesCinemaApi.Core\\LeavesCinemaApi.Core.csproj|solutionrelative:leavescinemaapi.core\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "C:\\Desarrollo\\Cristian\\LeavesCinemaApi\\LeavesCinemaApi.Core\\Services\\MovieService.cs",
+              "RelativeDocumentMoniker": "LeavesCinemaApi.Core\\Services\\MovieService.cs",
+              "ToolTip": "C:\\Desarrollo\\Cristian\\LeavesCinemaApi\\LeavesCinemaApi.Core\\Services\\MovieService.cs",
+              "RelativeToolTip": "LeavesCinemaApi.Core\\Services\\MovieService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAACEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T03:58:43.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RoomRepository.cs",
+              "DocumentMoniker": "C:\\Desarrollo\\Cristian\\LeavesCinemaApi\\LeavesCinemaApi.Infrastructure\\Repositories\\RoomRepository.cs",
+              "RelativeDocumentMoniker": "LeavesCinemaApi.Infrastructure\\Repositories\\RoomRepository.cs",
+              "ToolTip": "C:\\Desarrollo\\Cristian\\LeavesCinemaApi\\LeavesCinemaApi.Infrastructure\\Repositories\\RoomRepository.cs",
+              "RelativeToolTip": "LeavesCinemaApi.Infrastructure\\Repositories\\RoomRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T03:50:00.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieRepository.cs",
+              "DocumentMoniker": "C:\\Desarrollo\\Cristian\\LeavesCinemaApi\\LeavesCinemaApi.Infrastructure\\Repositories\\MovieRepository.cs",
+              "RelativeDocumentMoniker": "LeavesCinemaApi.Infrastructure\\Repositories\\MovieRepository.cs",
+              "ToolTip": "C:\\Desarrollo\\Cristian\\LeavesCinemaApi\\LeavesCinemaApi.Infrastructure\\Repositories\\MovieRepository.cs",
+              "RelativeToolTip": "LeavesCinemaApi.Infrastructure\\Repositories\\MovieRepository.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T03:42:29.712Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

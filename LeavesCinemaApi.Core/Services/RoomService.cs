@@ -31,7 +31,7 @@ namespace LeavesCinemaApi.Core.Services
             return true;
         }
 
-        public async Task<Room> GetRoomAsync(StateRoom state)
+        public async Task<List<Room>> GetRoomAsync(StateRoom state)
         {
             return await _roomRepository.GetRoom(state);
         }

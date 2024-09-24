@@ -13,8 +13,6 @@ namespace LeavesCinemaApi.Infrastructure.Repositories
 {
     public class RoomRepository : IRoomRepository
     {
-        public List<Room> RoomList { get; set; }
-
         private readonly IMongoCollection<Room> _rooms;
 
         public RoomRepository(IConfiguration configuration)
@@ -37,10 +35,10 @@ namespace LeavesCinemaApi.Infrastructure.Repositories
             }
         }
 
-        public async Task<Room> GetRoom(StateRoom state)
+        public async Task<List<Room>> GetRoom(StateRoom state)
         {
 
-            return await _rooms.Find<Room>(room => room.State == state).FirstOrDefaultAsync();
+            return await _rooms.Find<Room>(room => room.State == state).ToListAsync();
         }
 
     }

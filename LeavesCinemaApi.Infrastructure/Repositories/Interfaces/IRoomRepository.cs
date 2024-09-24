@@ -11,6 +11,6 @@ namespace LeavesCinemaApi.Infrastructure.Repositories.Interfaces
     public interface IRoomRepository
     {
         Task AddRoom(Room room);
-        Task<Room> GetRoom(StateRoom state);
+        Task<List<Room>> GetRoom(StateRoom state);
     }
 }

@@ -11,6 +11,6 @@ namespace LeavesCinemaApi.Core.Services.Interfaces
     public interface IRoomService
     {
         Task<bool> AddRoom(Room request);
-        Task<Room> GetRoomAsync(StateRoom state);
+        Task<List<Room>> GetRoomAsync(StateRoom state);
     }
 }

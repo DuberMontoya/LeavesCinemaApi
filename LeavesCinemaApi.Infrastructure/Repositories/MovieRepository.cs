@@ -14,8 +14,6 @@ namespace LeavesCinemaApi.Infrastructure.Repositories
 {
     public class MovieRepository : IMovieRepository
     {
-        public List<Movie> MovieList { get; set; }
-
         private readonly IMongoCollection<Movie> _movies;
 
         public MovieRepository(IConfiguration configuration)
